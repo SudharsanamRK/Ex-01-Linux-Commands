@@ -1,6 +1,11 @@
 # Ex-01-Linux-Commands
 
 
+### Name: Sudharsanam R K
+
+### Reg No: 212222040163
+
+
 ## Aim:
 
 To study the execution of various Linux operating system commands.
